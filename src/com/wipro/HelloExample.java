@@ -7,6 +7,13 @@ public class HelloExample {
 		String s="vijay";
 		System.out.println(s);
 		
+		if(s!="abc") 
+		{
+			System.out.println("not equal");
+		}else {
+			System.out.println("equal");
+		}
+		
 		
 	}
 
